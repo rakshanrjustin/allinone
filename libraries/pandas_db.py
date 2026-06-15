@@ -5,7 +5,7 @@ import mysql.connector as mysql
 conn = mysql.connect(
     host="localhost",
     user="root",
-    password="Rakshan__2004",
+    password="null",
     database="ecommerce"
 )
 print("connected successfullly...")
